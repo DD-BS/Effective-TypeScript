@@ -5,7 +5,7 @@
 <table>
     <tr>
       <td height="140px" align="center"> <a href="https://github.com/lionleeee"><img src="https://avatars.githubusercontent.com/u/51181222?v=4" width="140px" /><br/>Front End<br/>  이정훈</a></td>
-      <td height="140px" align="center"> <a href="https://github.com/yeun38"><img src="https://avatars.githubusercontent.com/u/84265783?v=4" width="140px" /><br/>Front End<br/>  전소연</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/soyeon102"><img src="https://avatars.githubusercontent.com/u/84265783?v=4" width="140px" /><br/>Front End<br/>  전소연</a></td>
     </tr>
   
 </table>
