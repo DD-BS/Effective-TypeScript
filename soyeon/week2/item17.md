@@ -22,7 +22,7 @@
 
   <br/>
 
-- `readonly`는 얕게 동작하므로 깊은 Readonly제너릭을 만들거나, readonly타입을 지원하는 `DeepReadonly`라이브러리를 사용하는 것이 좋다.
+- `readonly`는 얕게 동작하므로 깊은 Readonly제너릭을 만들거나, `DeepReadonly`라이브러리를 사용하는 것이 좋다.
   ```tsx
   const dates: readonly Date[] = [new Date()];
   dates.push(new Date()); // 오류
