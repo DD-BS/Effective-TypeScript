@@ -13,6 +13,9 @@
 - 복잡한 타입을 확장하고 싶다면 타입과 &를 사용해야함
 
 ```ts
+
+
+
 type TState = {
   name: string;
   capital: string;
