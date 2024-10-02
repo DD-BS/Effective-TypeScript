@@ -3,6 +3,7 @@
 - 대규모 프로젝트를 타입스크립트로 점진적 전환시에는 자바스크립트와 타입스크립트가 동시에 동작할 수 있도록 하는 `allowJS` 컴파일러 옵션이 있다.
 - 번들러에 타입스크립트가 통합되어 있거나, 플러그인 방식으로 통합이 가능하다면 `allowJS`를 간단히 적용할 수 있다.
 - `npm install —save-dev tsify`를 실행하고 `browserify`를 사용하여 플러그인을 추가한다.
+  
   ```
   $ browserify index.ts -p [tsify --allowJS ] > bundle.js
   ```
