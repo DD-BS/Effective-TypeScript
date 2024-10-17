@@ -1,6 +1,7 @@
 #  📙 Effective-TypeScript📙
 
 ## 👩‍👩‍👦‍👦 멤버<br/>
+2024.08.22 ~ 2024.10.02
 
 <table>
     <tr>
